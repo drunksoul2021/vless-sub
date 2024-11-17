@@ -1,4 +1,4 @@
-https://WiiS5R.mcsslk.xyz/d1d9948d8beb257332954be7c922a9cc
+https://T36tZL.mcsslk.xyz/5ca9f3e104439a26d3d4d3943e9852a3
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
