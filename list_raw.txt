@@ -1,4 +1,4 @@
-https://OACOTF.mcsslk.xyz/c960c2195d9527d0698ae3ac1c0db943
+https://fto5wf.mcsslk.xyz/9c090aa89a4f5068797ae3a90535c633
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
