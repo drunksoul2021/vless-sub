@@ -1,4 +1,4 @@
-https://gwmz7r.mcsslk.xyz/8e442eefa60e0f8536a182a6cbcf59d0
+https://5WS945.mcsslk.xyz/cacb6b492b5f0c6871d6cfcd4ed5c187
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
@@ -25,7 +25,6 @@ https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%E5%BE%B7%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjEwN2RiYy01MWZjLTRjYTgtOWJkOS02NzAzM2I2YTY4ZjE=@61.172.235.22:11001#15%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2T0FHTEQrRE9BNlVjRnA1VWRmMHIvVXp5andIVit5aGVOa29GRGs2dUw4PQ==@213.108.22.109:38753#%E4%BF%84%E7%BD%97%E6%96%AF%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@h-k01.loveroise.com:54000#%E6%B3%95%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@h-k01.loveroise.com:54000#15%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
@@ -39,19 +38,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@s-g04.loveroise.com:54030#15%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDYyYTVjYS1hMzRlLTQ3YmYtOTgxMC1kYjkxMTg1ZjA3ZmM=@fuck5.mmmmmmmmmm.cfd:59019#1%7C_US_-%3E_ES_
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRXRQcW42SFlqVU5jSG9oTGZVcEZRd25makNDUTVtaDFtSmRFTUNCdWN1V1o5UDF1ZGtSS0huVnh1bzU1azFLWHoyRm82anJndDE4VzY2b3B0eTFlNGJtMWp6ZkNmQmI=@84.19.31.63:50841#%E5%BE%B7%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNTg1RkNEQi02MzUxLTQ4RDQtODJDMS01OTlCNTQ0N0E1ODk=@soontw.soon.guru:40020#15%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%E5%BE%B7%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNGVlYWE3Yi00M2M2LTQ5ZGMtODAyMC03Mzg5YmJhNGQwMzM=@hzhz2.sssyun.xyz:40016#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYTBmNWRkZC0yYjcwLTRiNGEtYjYxYS04ZDQwMjA5M2U1MmM=@183.232.229.165:11001#15%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%E5%8A%A0%E6%8B%BF%E5%A4%A7%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRXlPVFdtdFBHNXRkZ1pxTVFFcTRS@51.141.73.244:29814#1%7C_US__11
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#15%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF10%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@38.147.190.72:8388#15%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF9%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.110.56:443#15%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.146.147:443#15%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.143.139.72:443#15%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.86.96:443#15%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.151.109:443#15%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.39.227.28:443#1%7C_US__5
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.87.28:443#1%7C_SG_
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.251.196.3:443#15%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@163.172.64.22:989#1%7C_FR_-%3E_RU_
 ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA==@59.56.77.178:15082#1%7C_CN_
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.207:7001#1%7C_US__7
@@ -59,7 +54,8 @@ ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.152.125:32233#%E4%BF%84%E7%BD%9
 trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@vn.mjt000.com:443?allowInsecure=0&sni=vn.mjt000.com#15%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-other.05vr9nyqg5.download:13035?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-sg.05vr9nyqg5.download:13028?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-trojan://ouo@152.70.101.24:16800?allowInsecure=0&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#15%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://ouo@18.162.246.4:18443?allowInsecure=0&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#15%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian
+trojan://ouo@210.61.97.241:81?allowInsecure=0&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#15%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 vless://40b2c13f-9a14-4231-a6af-ec5079560076@176.32.35.194:5755?encryption=none&security=none&type=ws&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 vless://464d644c-9c10-4c02-9117-4c75b0c347cd@xn--b6gac.eu.org:8080?encryption=none&security=none&sni=wwwvisacomsg.mshcgb8q.workers.dev&type=ws&host=wwwvisacomsg.mshcgb8q.workers.dev&path=%2F%3Fed%3D2048fp%3Drandomized#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 vless://4ead13d1-f307-49b0-a828-a205a80ab570@212.192.13.179:4035?encryption=none&security=none&type=ws&path=%2F#%E8%A5%BF%E7%8F%AD%E7%89%99%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
