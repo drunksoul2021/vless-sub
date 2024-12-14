@@ -1,4 +1,4 @@
-https://Duohji.mcsslk.xyz/873c3044ce893990cdcfd04bd0577db5
+https://6KG1lh.mcsslk.xyz/cf154cc4b2a6c05e07682f4c489594cd
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
