@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
-https://sm19pY.mcsslk.xyz/563abb2aa8db6d3b7b8860b4bec022f4
+https://yE0NX1.mcsslk.xyz/be57953419a556cbd74c202ec421d455
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@h-k01.loveroise.com:54000#%E6%B3%95%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@h-k02.loveroise.com:54002#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@j-p04.loveroise.com:54102#%E7%BE%8E%E5%9B%BD%28yudou66.com%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
