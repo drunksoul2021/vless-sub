@@ -1,4 +1,4 @@
-https://B4ENU6.mcsslk.xyz/0cf0f5fb40ce89d5b67a1491f6bc438e
+https://j8HkYx.mcsslk.xyz/70270847c953ae14b7ad914858bb282f
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
