@@ -1,4 +1,4 @@
-https://i61Cov.mcsslk.xyz/46ed3fda01ded72a9bd107da51a97df3
+https://SHYMs1.mcsslk.xyz/9e29d92c098935818f39651fb62a1625
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
