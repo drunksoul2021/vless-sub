@@ -74,13 +74,10 @@ hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net:8443?sni=1ec1d0fd-sw3ts0-swdpud-duku.hy2.gotochinatown.net#1%7C%F0%9F%87%BA%F0%9F%87%B8116%20%7C%20%201.2MB/s
 hysteria2://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net:8443?sni=ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net#1%7C%F0%9F%87%BA%F0%9F%87%B896%20%7C%20%202.4MB/s
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&sni=sinavm.ru&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#1%7C%F0%9F%8C%805-LI%20%7C%20%202.0MB/s%7C0%25%7COpenai
-hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.sinavm.ir:80?insecure=0&sni=sinavm.sinavm.ir&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#9%7C%F0%9F%87%B1%40%D8%A7%20%D8%A7
-hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443?insecure=0&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#9%7C%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=0&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net#1%7C%F0%9F%87%BA%F0%9F%87%B888%20%7C%20%201.1MB/s
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#1%7C%F0%9F%87%BA%F0%9F%87%B843%20%7C%20%204.9MB/s%7C48%25%7CNetflix%7CDi...
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#1%7C%F0%9F%87%BA%F0%9F%87%B842%20%7C%20%205.7MB/s%7C47%25%7CNetflix%7CDi...
 hysteria2://c2b58ae0-d21c-11ef-b414-f23c91cfbbc9@638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net:8443?sni=638bb563-sw3ts0-swwcfg-1eijl.hy2.gotochinatown.net#1%7C%F0%9F%87%BA%F0%9F%87%B8119%20%7C%20%201.2MB/s
-hysteria2://c5e6f43c-6f0e-4112-bb97-ed0dba4582d7@111.230.96.212:1000?insecure=1&sni=hk003.ccwink.cc#9%7C%D8%B1%D8%A7%20%D8%AA%D8%A7%D9%84%20%D8%A7%DB%8C%20%20%40Outline_ir
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#9%7C%40Selinc%20%231
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#8%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#1%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
