@@ -78,7 +78,7 @@ hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@1ec1d0fd-sw3ts0-swdpud-duku.hy2
 hysteria2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264?insecure=1#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net:8443?sni=ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B896%20%7C%20%202.4MB/s
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&sni=sinavm.ru&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#2%7C%F0%9F%8C%805-LI%20%7C%20%202.0MB/s%7C0%25%7COpenai
-hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.sinavm.ir:80?insecure=0&sni=sinavm.sinavm.ir&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#10%7C%F0%9F%87%B1%40%F0%9D%97%A9%D8%A7%20%D8%A7
+hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.sinavm.ir:80?insecure=0&sni=sinavm.sinavm.ir&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#10%7C%F0%9F%87%B1%40%F0%9D%97%A9%D8%A7%20%D8%B1%D8%A7
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443?insecure=0&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#10%7C%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?insecure=1&sni=www.bing.com#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%231
 hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=0&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B888%20%7C%20%201.1MB/s
@@ -98,7 +98,6 @@ hysteria2://e3f67f43-9097-4e56-96e2-681910b92150@172.245.106.236:35091?insecure=
 hysteria2://e48d6377dda26840@185.184.70.120:42353?insecure=1#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net:8443?sni=ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8100%20%7C%20%201.3MB/s
 hysteria2://f70ff140-9c4e-44d3-8864-f336d7607d7e@jp.xn--mes91t7ofgnw.com:20252?insecure=1&sni=jp.xn--mes91t7ofgnw.com#11%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29
-hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?obfs=salamander&obfs-password=&O#10%7C28YB5qK%215t%23U%26insecure%3D1%26sni%3Dww...
 ss://YWVzLTEyOC1nY206VlhQaXBpMjlueE1P@pop.air.6432.0tk8a3a1q4t94dler.com:4052#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://YWVzLTEyOC1nY206VlhQaXBpMjlueE1P@pop.air.6432.0tk8a3a1q4t94dler.com:4052?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D0445dfbd1887ef01316815802200b51e70987.taobao.com#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.181.201.66:443#12%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
