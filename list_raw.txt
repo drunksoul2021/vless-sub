@@ -51,12 +51,6 @@ https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_yaml.yml
 https://raw.githubusercontent.com/mheidari98/.proxy/main/all
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#10%7C%40V2rayNG3%20%234
