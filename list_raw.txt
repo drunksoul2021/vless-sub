@@ -128,10 +128,9 @@ hysteria2://e9f0g1h2-3456-7bcd-8abc-9012abcdef34@185.146.173.2450:443?insecure=0
 hysteria2://f70ff140-9c4e-44d3-8864-f336d7607d7e@jp.xn--mes91t7ofgnw.com:20252?insecure=1&sni=jp.xn--mes91t7ofgnw.com#11%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#10%7C%40V2rayNG3%20%239
 hysteria2://hfWoFliBzz7DzJ4AhSrCpNsiw@34.221.171.77:21779?insecure=1#10%7C%40V2aryng_vpn%20%237
-hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#9%2C10%7C%40v2ray_configs_poolHong%20Kong%EF%B8%8FH...
+hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#9%2C10%7C%40meli_proxyy%20%239
 hysteria2://o9p0q1r2-9012-3bcd-4abc-5678abcdef12@185.146.173.2900:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%231
 hysteria2://u5v6w7x8-9012-3bcd-4abc-5678abcdef34@185.146.173.3250:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%232
-hysteria2://u9v0w1x2-3456-7bcd-8abc-9012abcdef34@185.146.173.190:8888?obfs=salamander&obfs-password=secret#10%7C%40Filter_breaker%20%7C%20Finland
 hysteria2://w7x8y9z0-3456-7bcd-8abc-9012abcdef90@185.146.173.3400:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%233
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWFmYzJlZi1kNWZkLTRmNmQtODAzYi1mYWQ0YTVjYzFmMGU=@h.cm2.xiaomi-api.xyz:19832#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWFmYzJlZi1kNWZkLTRmNmQtODAzYi1mYWQ0YTVjYzFmMGU=@h.cm2.xiaomi-api.xyz:19852#12%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
