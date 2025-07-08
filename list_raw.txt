@@ -88,6 +88,7 @@ hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17027?insecure
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17307?insecure=0#10%7C%F0%9F%87%A9%F0%9F%87%AA%20%40game_file2020
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17340?insecure=0#10%7C%F0%9F%87%AA%20%40game_file2020
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@de.saigonfly.com:17911?insecure=0#10%7C%F0%9F%87%A9%F0%9F%87%AA%20%40game_file2020%20%231
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@hk.saigonfly.com:17395?insecure=0#10%7C%40game_file2020500%20GB
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17064?insecure=0#10%7C%F0%9F%87%B7%20%40game_file2020
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17192?insecure=0#10%7C%F0%9F%87%B9%F0%9F%87%B7%20%40game_file2020
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17515?insecure=0#10%7C%F0%9F%87%B7%20%40game_file2020%20%231
