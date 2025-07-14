@@ -192,6 +192,9 @@ hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obf
 hysteria2://hfWoFliBzz7DzJ4AhSrCpNsiw@34.221.171.77:21779?insecure=1#10%7C%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 hysteria2://hfWoFliBzz7DzJ4AhSrCpNsiw@54.212.32.103:21779?insecure=1&sni=bing.com#9%2C10%7C%40meli_proxyy%20%2318
 hysteria2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443?insecure=1#9%7C%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%20%E6%8B%89%20DIGITALOCEAN-ASN
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:20627?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#10%7C%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%86%20
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7C%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:56116?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#10%7C%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%EF%B8%8F
 hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#10%7C%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay
 hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#9%2C10%7C%40meli_proxyy%20%2319
 hysteria2://o9p0q1r2-9012-3bcd-4abc-5678abcdef12@185.146.173.2900:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%231
