@@ -143,7 +143,6 @@ hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-pas
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&sni=sinavm.ru&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#1%7C%F0%9F%8C%805-LI%20%7C%20%202.0MB/s%7C0%25%7COpenai
 hysteria2://JSC7GnvDM4mIitnCZXQo8IKSPs@13.250.121.168:29713?insecure=1&sni=bing.com#8%2C9%7CTelegram%40vmessorg
 hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.com#8%7C%F0%9F%87%B8
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=0&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#9%7C%40HIBYEVPNN
 hysteria2://VPNHubMaRKeT@3.123.253.70:9999?insecure=1&obfs=salamander&obfs-password=tel:@VPNHubMaRKeT#9%7C%F0%9F%87%A9%F0%9F%87%AA%20%40VPNHubMaRKeT%20%E2%9A%A1%EF%B8%8F%20%20%40VpnHubMa...
 hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1#8%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%D9%81%DB%8C%D8%AA%D8%B1%D9%86%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vpnowl%40
@@ -166,15 +165,11 @@ hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?insecure=1&
 hysteria2://d9fe1f5e-8f0f-41b6-95f6-d90aa0404924@75.127.13.83:45551?insecure=1&sni=www.bing.com#10%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%234
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=VpnHubMarKeT#9%7C%F0%9F%87%B9%F0%9F%87%B7%C2%B9%20%40VpnHubMarKeT%20%20%40VpnHubMarK...
 hysteria2://dec336f6-e5da-40f4-a4de-986c7b34d587@fr4.eyucdn.xyz:2056?insecure=1&sni=fr4.eyucdn.xyz#9%7CIRAN%204%20%28%40Outline_Vpn%29
-hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1#9%7Chibyevpn--IR-9%20%40HiByeVPNN
-hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1&sni=apple.com#8%2C9%7Chibyevpn--IR-13%20%40HiByeVPNN
+hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1&sni=apple.com#8%2C9%7CIRAN%209%20%28%40Outline_Vpn%29
 hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#10%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%231
 hysteria2://dongtaiwang.com@45.129.2.108:30033?insecure=1&sni=www.bing.com#10%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#9%7C%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF%20%233
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#9%7C%40V2rayNG3%20%238
-hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1#9%7Chibyevpn--IR-10%20%40HiByeVPNN
-hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#9%7Chibyevpn--IR-12%20%40HiByeVPNN
-hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1#9%7Chibyevpn--IR-14%20%40HiByeVPNN
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#9%2C10%7C%40drakvpn%F0%9F%90%89
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#8%2C9%2C10%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#1%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
