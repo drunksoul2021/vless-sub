@@ -174,15 +174,9 @@ hysteria2://fzgdaH0cJ7@160.191.183.244:14849?insecure=1&obfs=salamander&obfs-pas
 hysteria2://fzgdaH0cJ7@160.191.183.244:48004?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#10%7Cv2raybluecrystal3-ind
 hysteria2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443?insecure=1#9%7C%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%20%E6%8B%89%20DIGITALOCEAN-ASN
 hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#10%7C%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay%20%232
-hysteria2://mItioklzVp@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#10%7CAlfa_v2ray_ng%20%233
 hysteria2://mItioklzVp@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal2%20%233
-hysteria2://mItioklzVp@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#10%7CAlfa_v2ray_ng%20%234
 hysteria2://mItioklzVp@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal3%20%233
-hysteria2://mItioklzVp@78.138.118.228:37804?insecure=1&obfs=salamander&obfs-password=alfa_v2ray_ng#10%7Calfa_v2ray_ng
 hysteria2://mItioklzVp@78.138.118.228:37804?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal%20%233
-hysteria2://mItioklzVp@alfa_v2ray_ng-france.alfa_v2ray_ng.dynv6.net:33113?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#10%7CAlfa_v2ray_ng%20%237
-hysteria2://mItioklzVp@alfa_v2ray_ng-france.v2raybluecrystal2.dynv6.net:22527?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#10%7CAlfa_v2ray_ng%20%235
-hysteria2://mItioklzVp@alfa_v2ray_ng-france.v2raybluecrystal2.dynv6.net:37804?insecure=1&obfs-password=Alfa_v2ray_ng#10%7CAlfa_v2ray_ng%20%236
 hysteria2://mItioklzVp@v2raybluecrystal-france.v2raybluecrystal2.dynv6.net:22527?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal2%20%234
 hysteria2://mItioklzVp@v2raybluecrystal-france.v2raybluecrystal2.dynv6.net:33113?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal3%20%234
 hysteria2://mItioklzVp@v2raybluecrystal-france.v2raybluecrystal2.dynv6.net:37804?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal%20%234
