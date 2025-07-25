@@ -74,7 +74,7 @@ hysteria2://27e473f8-d610-4b04-bdf7-d0c39b47c897@23.80.81.213:45000?insecure=1&s
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?insecure=1&sni=www.apple.com#10%7C%40ata_connect%20%20%D8%A7%20%D8%A7%20%D9%86%20%20%20
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy17.liangxin1.xyz:443?insecure=1&sni=www.apple.com.cn#9%7C%E6%97%A5%E6%9C%AC%20%231
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy2.liangxin1.xyz:443?insecure=1&sni=www.tesla.cn#9%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%231
-hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B898%20%7C%20%201.3MB/s
+hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?insecure=0&sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#2%2C10%7C%20%20Telegram%20%40v2rayng_fars
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp1.eyucdn.xyz:2056?insecure=1&sni=zp1.eyujichang.xyz#9%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%232
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp2.eyucdn.xyz:2056?insecure=1&sni=zp2.eyujichang.xyz#9%7C%E4%B8%9C%E4%BA%AC
 hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net:8443?sni=898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8103%20%7C%20%203.2MB/s
@@ -107,6 +107,7 @@ hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.c
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#10%7C%40Daily_Configs
 hysteria2://VPNHubMaRKeT@3.123.253.70:9999?insecure=1&obfs=salamander&obfs-password=tel:@VPNHubMaRKeT#10%7C%F0%9F%87%A9%F0%9F%87%AA%20%40VPNHubMaRKeT%20%E2%9A%A1%EF%B8%8F%20%20%40VpnHubMa...
 hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%40SaghiVpnX%5B%5D
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%40Filter_breaker%20%7C%20United%20Kingd...
 hysteria2://Ys1Z1iA996@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#10%7CAlfa_v2ray_ng
 hysteria2://Ys1Z1iA996@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#10%7CAlfa_v2ray_ng%20%231
