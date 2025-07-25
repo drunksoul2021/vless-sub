@@ -137,7 +137,7 @@ hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#11%7C%E
 hysteria2://dongtaiwang.com@45.129.2.108:30033?insecure=1&sni=www.bing.com#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#9%2C10%7C%40V2ray1_Ng
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#10%7C%40V2rayNG3%20%238
-hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#10%7C%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%DB%8C%20%DB%8C%D8%B4%20%D8%B1%20%D9%86%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%92%8E%20%40Conf...
+hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#10%7C%D8%B1%D9%88%DB%8C%20%F0%9F%87%BA%20%40V2xay
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#9%2C11%7C%40drakvpn%F0%9F%90%89
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#9%2C10%2C11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
@@ -155,7 +155,7 @@ hysteria2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443?insecure=1#9%7C%F0%9F%87
 hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#9%7CChannel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0
 hysteria2://o9p0q1r2-9012-3bcd-4abc-5678abcdef12@185.146.173.2900:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%231
 hysteria2://u5v6w7x8-9012-3bcd-4abc-5678abcdef34@185.146.173.3250:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%232
-hysteria2://user10.thisismeSUperkl19201@shade.zone1.center:443?insecure=0&obfs=salamander&obfs-password=mkv_SEfr-salamdash#10%7C%28%40vmesskhodam%29%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86
+hysteria2://user10.thisismeSUperkl19201@shade.zone1.center:443?insecure=0&obfs=salamander&obfs-password=mkv_SEfr-salamdash#10%7C%28%40vmesskhodam%29%D9%84%D9%85%D9%88%D9%86
 hysteria2://user12.myserverSEFR097@knock.zone1.center:443?insecure=0&obfs=salamander&obfs-password=The_Sefr-salamdash#10%7C%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay%20%232
 hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#9%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://w7x8y9z0-3456-7bcd-8abc-9012abcdef90@185.146.173.3400:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%233
