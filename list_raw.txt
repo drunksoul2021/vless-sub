@@ -176,7 +176,6 @@ hysteria2://user10.thisismeSUperkl19201@shade.zone1.center:443?insecure=0&obfs=s
 hysteria2://user12.myserverSEFR097@knock.zone1.center:443?insecure=0&obfs=salamander&obfs-password=The_Sefr-salamdash#10%7C%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay%20%232
 hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#9%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
 hysteria2://w7x8y9z0-3456-7bcd-8abc-9012abcdef90@185.146.173.3400:443?insecure=0&sni=hysteria.de.vpnfree.org#10%7C%40Filter_breaker%20%7C%20Germany%20%232
-hysteria2://wl4HYN9PPKs8d8IzGIt4yKqt0@47.74.34.102:53348?insecure=1#10%7C%40v2ray_configs_pool%F0%9F%94%B7
 hysteria2://yoP8tOtEhMTSBUPY9LwnHABvFE@18.136.211.127:14933?insecure=1&sni=bing.com#10%7CTelegram%40vmessorg%20%232
 hysteria2://zz0IPHmeNp@tamasha.asrenet.ru:48009?insecure=1&obfs=salamander&obfs-password=AwsdFRD453tG#10%7C%40SaghiVpnX%5B%F0%9F%87%B8%5D
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#12%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
