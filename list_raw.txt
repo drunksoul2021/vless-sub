@@ -63,8 +63,6 @@ hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.1010
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#2%7C%F0%9F%87%BA%F0%9F%87%B869%20%7C%20%204.3MB/s%7C100%25%7CNetflix%7CO...
 hysteria2://15R8i80exo@185.45.193.163:11001?insecure=1&obfs=salamander&obfs-password=KevinZakarian#10%7C%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%231
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#10%7C%40V2rayNG3%20%231
-hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@jpcn286.s2fjeyeeyafe.bond:35789?insecure=1&sni=jpcn286.s2fjeyeeyafe.bond#10%7C%40_
-hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@us10.s2fjeyeeyafe.bond:35789?insecure=1&sni=us10.s2fjeyeeyafe.bond#10%7C%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net:8443?sni=2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8122%20%7C%20%201.4MB/s
 hysteria2://1c473b13-502d-47eb-8cf8-70a38d56c5bd@jp1.interld123456789.com:443?insecure=1&sni=1231231.1234567890spcloud.com#9%7C%E6%97%A5%E6%9C%ACHy2-3
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443?insecure=0&sni=0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net#10%7C%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%232
