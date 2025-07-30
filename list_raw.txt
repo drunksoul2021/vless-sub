@@ -107,7 +107,7 @@ hysteria2://Jj0FrgSd85@165.140.166.78:17083?insecure=1&obfs=salamander&obfs-pass
 hysteria2://Jj0FrgSd85@165.140.166.78:41003?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#10%7Cv2raybluecrystal3-la
 hysteria2://Jj0FrgSd85@165.140.166.78:50163?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal-la
 hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.com#9%7C%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#10%7C%40v2ray_configs_pool%F0%9F%94%B7
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#10%7C%40Daily_Configs
 hysteria2://UnYCJJ9AQy@146.19.56.21:24803?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#10%7Cv2raybluecrystal3-hou
 hysteria2://UnYCJJ9AQy@146.19.56.21:28165?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal-hou
 hysteria2://UnYCJJ9AQy@146.19.56.21:57418?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#10%7Cv2raybluecrystal2-hou
