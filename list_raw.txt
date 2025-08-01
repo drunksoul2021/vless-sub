@@ -182,7 +182,7 @@ hysteria2://fzgdaH0cJ7@160.191.183.244:11282?insecure=1&obfs=salamander&obfs-pas
 hysteria2://fzgdaH0cJ7@160.191.183.244:14849?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#10%7Cv2raybluecrystal2-ind
 hysteria2://fzgdaH0cJ7@160.191.183.244:48004?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#10%7Cv2raybluecrystal3-ind
 hysteria2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443?insecure=1#9%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%20%E6%8B%89%20DIGITALOCEAN-ASN
-hysteria2://kWlrCka5jzfKbD2z7ucwANEdZM@47.245.53.59:26404?insecure=1#10%7C%40Daily_Configs%20%231
+hysteria2://kWlrCka5jzfKbD2z7ucwANEdZM@47.245.53.59:26404?insecure=1#10%7CTelegram%3A%40config_proxy%20%F0%9F%98%8D
 hysteria2://mItioklzVp@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal2%20%232
 hysteria2://mItioklzVp@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal3%20%232
 hysteria2://mItioklzVp@78.138.118.228:37804?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#10%7Cv2raybluecrystal%20%232
