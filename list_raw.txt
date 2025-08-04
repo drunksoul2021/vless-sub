@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#10%7C%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#10%7C%D8%A2%D9%85%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay
+hysteria2://%40VPNHubMaRKeT@202.78.166.190:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=@VPNHubMaRKeT#10%7C%F0%9F%87%A9%F0%9F%87%AA%20%40VPNHubMaRKeT%20%E2%99%BE%20%20%40VpnHubMar...
 hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#10%7C%40V2rayNG3%20%234
 hysteria2://%40warp_city@jnir-5.pichondan.com:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@warp_city#10%7C%40warp_city
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#10%7C%40V2rayNG3
@@ -104,6 +105,7 @@ hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn
 hysteria2://JSC7GnvDM4mIitnCZXQo8IKSPs@13.250.121.168:29713?insecure=1&sni=bing.com#10%7CTelegram%40vmessorg
 hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.com#9%7C%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#10%7C%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay%20%231
+hysteria2://VPNHubMaRKeT@3.123.253.70:9999?insecure=1&obfs=salamander&obfs-password=tel:@VPNHubMaRKeT#10%7C%F0%9F%87%A9%F0%9F%87%AA%20%40VPNHubMaRKeT%20%E2%9A%A1%EF%B8%8F%20%20%40VpnHubMa...
 hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%40warp_city%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%DA%A9%D8%A7%D8%A7%20%20%D8%A7%20%20%D9%88%20%D9%85%D9%84%20%DB%8C%20prox%40
@@ -123,6 +125,7 @@ hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?insecure=1&sni=www.bing.com#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://d9fe1f5e-8f0f-41b6-95f6-d90aa0404924@75.127.13.83:45551?insecure=1&sni=www.bing.com#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%236
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com#10%7C%E7%BE%8E%E5%9B%BD10%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//dafei.de%20%233
+hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=VpnHubMarKeT#10%7C%F0%9F%87%B9%F0%9F%87%B7%C2%B9%20%40VpnHubMarKeT%20%20%40VpnHubMarK...
 hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1#10%7C%40V2ray_confs
 hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#11%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%231
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#9%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%231
