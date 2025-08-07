@@ -39,6 +39,7 @@
 </html>
 <html lang="">
 hhy2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443/?sni=0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net#Channel id: @ShadowProxy66
+hhysteria2://07a95561-a7c6-40fb-b964-45c83a2833bf@185.184.70.120:51234?security=tls&insecure=1#@HiByeVPNN
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
 https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml
@@ -133,7 +134,7 @@ hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#10%7C%E
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#8%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%233
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#8%2C9%7C%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig%20%232
 hysteria2://dongtaiwang.com@45.129.2.108:30033?insecure=1&sni=www.bing.com#10%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#9%7C%40V2ray_cartel
+hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#9%7C%40V2ray1_Ng
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#9%7C%40V2rayNG3%20%238
 hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#9%7C%20%F0%9F%87%BA%20%40V2xay
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#10%7C%40drakvpn%F0%9F%90%89
