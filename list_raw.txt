@@ -110,7 +110,6 @@ hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni
 hysteria2://VPNHubMaRKeT@3.123.253.70:9999?insecure=1&obfs=salamander&obfs-password=tel:@VPNHubMaRKeT#9%7C%F0%9F%87%A9%F0%9F%87%AA%20%40VPNHubMaRKeT%20%E2%9A%A1%EF%B8%8F%20%20%40VpnHubMa...
 hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1#8%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%DA%A9%D8%A7%D8%A7%20%20%D8%A7%20%20%D9%88%20%D9%85%D9%84%20%20prox%40
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CTelegram%3A%40config_proxy%20
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig%20%231
 hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#8%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%232
 hysteria2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518?insecure=1#8%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%231
