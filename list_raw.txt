@@ -136,6 +136,7 @@ hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?insecure=1
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#10%7C%40V2rayNG3%20%239
 hysteria2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443?insecure=1#9%7C%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%20%E6%8B%89%20DIGITALOCEAN-ASN
 hysteria2://kWlrCka5jzfKbD2z7ucwANEdZM@47.245.53.59:26404?insecure=1#10%7C%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig%20%233
+hysteria2://n9OgQprayM@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#10%7C%40Selinc
 hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#9%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#9%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://xnChC7dKZ8@91.98.34.130:443?insecure=0&sni=android.yas-nowin.ir#10%7C%40v2rayNGcloud
