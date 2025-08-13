@@ -173,7 +173,7 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#9%2
 hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#10%7C%40V2ray1_Ng
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#10%7C%40V2rayNG3%20%238
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#10%7CFR%202%20%F0%9F%87%B7%20%7C%20%40v2xay
-hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#9%2C10%7Crya
+hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#9%2C10%7C%40Hddify%20
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
 hysteria2://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-linkhy10.liangxin1.xyz:443?insecure=1&sni=www.teslaautomation.de#9%7C%F0%9F%87%B8%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:46502?insecure=0&sni=real.getafreenode.sbs#10%7CViP%20RGB%F0%9F%9A%80%20%2332
