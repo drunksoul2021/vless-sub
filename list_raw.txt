@@ -120,7 +120,6 @@ hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056?insecure=1&
 hysteria2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518?insecure=1#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%231
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com#9%7C%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF2
-hysteria2://c5c2bdda-30f9-4252-b074-1f515e38adde@de2.587458.xyz:1443?insecure=0&sni=de2.587458.xyz#10%7C%40Academi_vpn6
 hysteria2://cc83a02b-90ea-403b-9c76-27e4be95f637@154.204.181.230:50256?insecure=1&sni=www.bing.com#9%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B0%20%232
 hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?insecure=1&sni=gbr1.587458.xyz#10%7CGB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40v2xay
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com#10%7C%E7%BE%8E%E5%9B%BD10%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//dafei.de%20%233
