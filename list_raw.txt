@@ -105,6 +105,7 @@ hysteria2://D9LQsYxAUo@91.108.240.122:37502?insecure=1&obfs=salamander&obfs-pass
 hysteria2://D9LQsYxAUo@91.108.240.122:58430?insecure=1&obfs=salamander&obfs-password=Lzakmdjsia#9%7Chttps%3A//t.me/VTWORAY_WOLF%20%232
 hysteria2://FREEEE_7.87958795@91.107.251.13:443?insecure=1&sni=fast.com&obfs=salamander&obfs-password=aA@8795#9%7C%40Daily_Configs
 hysteria2://HfK3UK4MoXxYUccnp7qzx3Y3o@209.38.144.136:34321?insecure=1&sni=bing.com#8%7CUS
+hysteria2://J7VnJazPBw@91.98.34.130:443?insecure=0&sni=android.yas-nowin.ir#9%7C%40ELFV2RAY
 hysteria2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763?insecure=1&sni=bing.com#8%7C%E7%BE%8E%E5%9B%BD
 hysteria2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243?insecure=1&sni=bing.com#8%7CHK%20%231
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1&sni=bing.com#8%7C%F0%9F%87%AD%F0%9F%87%B0HK
