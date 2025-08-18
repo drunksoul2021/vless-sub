@@ -84,6 +84,7 @@ hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&s
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#9%7C%D8%A7%20%D9%87%D8%A7%20%20%D8%B1%20%D9%86%20%D8%AA%D8%B1%D8%A7%F0%9F%92%8E%20Config_Rayegan%40
 hysteria2://7fb6dcc5-5396-4b95-bfe3-789f5c0120be@hsxg.huasuan666.top:22153?insecure=1&sni=hsxg.huasuan666.top#8%7C%F0%9F%8D%B028%40oneclickvpnkeys
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@192.18.150.167:54530?insecure=1&sni=www.bing.com#8%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%A8%F0%9F%87%A6%20%231
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#8%7C2%40oneclickvpnkeys
 hysteria2://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@23.80.81.213:45000?insecure=1&sni=www.apple.com#9%7C%E7%BE%8E%E5%9B%BD10%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//dafei.de%20%231
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:46502?sni=real.getafreenode.sbs#8%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%B7
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:59494?sni=real.getafreenode.sbs#8%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%BA
