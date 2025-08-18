@@ -90,6 +90,7 @@ hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205
 hysteria2://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%7C%E7%BE%8E%E5%9B%BD10%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//dafei.de%20%231
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:46502?sni=real.getafreenode.sbs#9%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%B7
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:59494?sni=real.getafreenode.sbs#9%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%BA
+hysteria2://9742ff4c-95a3-4395-bbe9-011ecd91f4b4@58.152.53.196:14549?insecure=1&alpn=h3#10%7CTelegram%3A%40config_proxy%20
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#10%7C%40V2rayNG3%20%235
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#10%7C%40V2rayNG3%20%236
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#10%7C%40V2rayNG3%20%237
