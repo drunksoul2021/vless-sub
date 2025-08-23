@@ -95,7 +95,7 @@ hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7Cnone%20%234
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#10%7C%20%40Cyber_Ta%F0%9F%8C%90%20%231
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#9%7C2%40oneclickvpnkeys
-hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#10%7CTelegram%3A%40config_proxy%20%F0%9F%98%8D
+hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#10%7C%F0%9F%87%BA%40FreakConfig
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7C%E2%86%92%20%40Hddify
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7Cnone%20%236
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#10%7C%40V2rayNG3%20%235
@@ -109,7 +109,7 @@ hysteria2://J7VnJazPBw@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin
 hysteria2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763?insecure=1&sni=bing.com#9%7C%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#10%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243?insecure=1&sni=bing.com#9%7CHK%20%231
-hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1#10%7CTelegram%3A%40config_proxy%20%F0%9F%98%8D%20%231
+hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1#10%7C%40Daily_Configs%20%232
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1&sni=bing.com#9%7C%F0%9F%87%AD%F0%9F%87%B0HK
 hysteria2://O0URQrRTemVsvUP6jvcBwEIN7Ng@35.178.136.205:10832?insecure=1&sni=bing.com#9%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.com#9%7C%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8
@@ -139,6 +139,7 @@ hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#9%2C1
 hysteria2://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-linkhy10.liangxin1.xyz:443?insecure=1&sni=www.teslaautomation.de#9%7C%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@asg.pagate.top:10086?#9%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%233
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?insecure=1&sni=www.bing.com#9%2C10%7C%40Daily_Configs%20%235
+hysteria2://f192a1eb-5987-49b2-9b2d-31a1410d7566@hsyg.huasuan666.top:22156?insecure=1&sni=hsyg.huasuan666.top#10%7C%40FreakConfig
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#10%7C%40V2rayNG3%20%239
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7Cnone%20%237
 hysteria2://lPK6OZ9ouqyXrCghO6ohUbbN5g@8.222.183.55:33131?insecure=1&sni=bing.com#9%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%20%231
