@@ -38,6 +38,7 @@
 <!DOCTYPE html>
 </html>
 <html lang="">
+hhysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@us.myyfqh.tech:443?security=tls&insecure=0&mport=30601-30699&sni=us.myyfqh.tech# @Cyber_Ta🌐
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
 https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml
@@ -57,7 +58,6 @@ hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-
 hysteria2://0076436c-9459-458b-8c6f-57c379acbbe3@jph1.youxuan.wiki:8080?insecure=1#9%7C%F0%9F%A7%8179%40oneclickvpnkeys
 hysteria2://0076436c-9459-458b-8c6f-57c379acbbe3@zl.youxuan.wiki:8080?insecure=1#9%7C%F0%9F%A7%8178%40oneclickvpnkeys
 hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@hg.myyfqh.tech:443?insecure=0&sni=hg.myyfqh.tech#10%7C%F0%9F%87%B0%F0%9F%87%B7%20%40Cyber_Ta%F0%9F%8C%90
-hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@us.myyfqh.tech:443?insecure=0&sni=us.myyfqh.tech#10%7C%20%40Cyber_Ta%F0%9F%8C%90
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7Cnone
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#10%7C%40V2rayNG3
 hysteria2://15a13318-8c5f-4f5f-9729-cadf6c02a3e8@hl1.gy6688.xyz:22986?insecure=1&sni=hl1.gy6688.xyz&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn#9%7C37%40oneclickvpnkeys
@@ -93,7 +93,7 @@ hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1&sni=bing.com#9%7CUK%20%231
 hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com#9%7CDE
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7Cnone%20%234
-hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#10%7C%20%40Cyber_Ta%F0%9F%8C%90%20%231
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#10%7C%20%40Cyber_Ta%F0%9F%8C%90
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#9%7C2%40oneclickvpnkeys
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#10%7C%F0%9F%87%BA%40FreakConfig
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7C%E2%86%92%20%40Hddify
@@ -106,6 +106,7 @@ hysteria2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166?insecure=1#9%7CHK
 hysteria2://FREEEE_7.87958795@91.107.251.13:443?insecure=1&sni=fast.com&obfs=salamander&obfs-password=aA@8795#9%2C10%7C%40Daily_Configs%20%231
 hysteria2://HfK3UK4MoXxYUccnp7qzx3Y3o@209.38.144.136:34321?insecure=1&sni=bing.com#9%7CUS
 hysteria2://J7VnJazPBw@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#10%7C%F0%9F%87%A9%F0%9F%87%AA%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%86%20%E2%9E%A0%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%231
+hysteria2://JWLQunPJgg2xi8Edm304q9Vqw@161.35.157.233:2050?insecure=1#9%7CTelegram%3A%40config_proxy%20
 hysteria2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763?insecure=1&sni=bing.com#9%7C%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#10%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243?insecure=1&sni=bing.com#9%7CHK%20%231
@@ -124,7 +125,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%2C10%7C%40Daily_Configs%20%234
 hysteria2://a52663f7-bd8e-4553-a5de-ff6403a0ccfc@192.9.165.40:443?insecure=1&sni=cn.cremedelamer.com#9%7C%F0%9F%87%BA
 hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz#9%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
-hysteria2://aad14334740e854a0e24fe5dcf414967@p1ldar.fizikade.ir:8883?insecure=0&sni=p1ldar.fizikade.ir&obfs=salamander&obfs-password=esdxfcghoewaahabvrrbU9dfghjh#10%7C%F0%9F%87%AA%20%20%20-%20%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9E
+hysteria2://aad14334740e854a0e24fe5dcf414967@p1ldar.fizikade.ir:8883?insecure=0&sni=p1ldar.fizikade.ir&obfs=salamander&obfs-password=esdxfcghoewaahabvrrbU9dfghjh#10%7C%F0%9F%87%AA%20%20%20-%20
 hysteria2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518?insecure=1#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%231
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com#9%7C%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC
 hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF2
