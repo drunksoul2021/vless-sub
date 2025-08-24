@@ -38,6 +38,7 @@
 <!DOCTYPE html>
 </html>
 <html lang="">
+hhy2://0076436c-9459-458b-8c6f-57c379acbbe3@zl.youxuan.wiki:8080/?insecure=1#🧁78@oneclickvpnkeys
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
 https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml
@@ -55,7 +56,6 @@ https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#10%7C%40V2rayNG3%20%234
 hysteria2://0076436c-9459-458b-8c6f-57c379acbbe3@jph1.youxuan.wiki:8080?insecure=1#9%7C%F0%9F%A7%8179%40oneclickvpnkeys
-hysteria2://0076436c-9459-458b-8c6f-57c379acbbe3@zl.youxuan.wiki:8080?insecure=1#9%7C%F0%9F%A7%8178%40oneclickvpnkeys
 hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@hg.myyfqh.tech:443?insecure=0&sni=hg.myyfqh.tech#10%7C%F0%9F%87%B0%F0%9F%87%B7%20%40Cyber_Ta%F0%9F%8C%90
 hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@us.myyfqh.tech:443?insecure=0&sni=us.myyfqh.tech#10%7C%20%40Cyber_Ta%F0%9F%8C%90
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7Cnone
