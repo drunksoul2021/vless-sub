@@ -105,6 +105,7 @@ hysteria2://Bz0jKM83wa@android.yas-nowin.ir:443?sni=android.yas-nowin.ir#10%7C%F
 hysteria2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166?insecure=1#9%7CHK
 hysteria2://FREEEE_7.87958795@91.107.251.13:443?insecure=1&sni=fast.com&obfs=salamander&obfs-password=aA@8795#9%2C10%7C%40Daily_Configs%20%232
 hysteria2://HfK3UK4MoXxYUccnp7qzx3Y3o@209.38.144.136:34321?insecure=1&sni=bing.com#9%7CUS
+hysteria2://J7VnJazPBw@91.98.34.130:443?insecure=0&sni=android.yas-nowin.ir#10%7C%40ELFV2RAY
 hysteria2://J7VnJazPBw@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#10%7C%F0%9F%87%A9%F0%9F%87%AA%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%86%20%E2%9E%A0%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%231
 hysteria2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763?insecure=1&sni=bing.com#9%7C%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#10%7C%2B%40Azarakhsh_Proxy%2B
