@@ -92,7 +92,7 @@ hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg2.dimoyun.top:40001?insecure=
 hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xjp.dimoyun.top:40001?insecure=1&sni=xjp.dimoyun.top#9%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#10%7C%40V2rayNG3%20%232
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&sni=file-oss-ccs-02.dafei.de#9%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8%20%231
-hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#9%2C10%7CTelegram%3A%40config_proxy%20
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#9%2C10%7C%D8%A7%D9%86%20%D9%87%D8%A7%DB%8C%20%DB%8C%20%D8%AF%20%D9%86%D9%84%20%D8%AA%D8%B1%D8%A7%F0%9F%92%8E%20Config_Raye...
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1&sni=bing.com#9%7CUK%20%231
 hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com#9%7CDE
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#9%7C2%40oneclickvpnkeys
