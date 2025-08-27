@@ -146,7 +146,7 @@ hysteria2://oCt1QU5QUB9vPtoBq3SzGrjlBTU@18.183.180.34:11534?insecure=1&sni=bing.
 hysteria2://ok6aX0A7QX9SkYo6R0GBBJDUsK4@143.244.140.87:8460?insecure=1&sni=bing.com#9%7CIndia
 hysteria2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704?insecure=1&sni=bing.com#9%7CUS%20%231
 hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#9%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%20%232
-hysteria2://wieZ9G0FbEecGx2kXaZLchtt@147.45.154.150:443?alpn=h3&sni=anymath.ir&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q#10%7C%40Change_IP1-HYS%20%235
+hysteria2://wieZ9G0FbEecGx2kXaZLchtt@147.45.154.150:443?alpn=h3&sni=anymath.ir&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q#10%7C%40Change_IP1-HYS%20%234
 hysteria2://wxiTacqUnFMT6QPG1xHX578Omo@138.197.185.116:7444?insecure=1&sni=bing.com#9%7C57%40oneclickvpnkeys
 hysteria2://xnChC7dKZ8@91.98.34.130:443?insecure=0&sni=android.yas-nowin.ir#10%7C%40ELFV2RAY%20%231
 hysteria2://xnChC7dKZ8@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#10%7C%40SaghiVpnXBOT%20%F0%9F%87%A9%F0%9F%87%AA%5B%F0%9F%87%A9%F0%9F%87%AA%5D
