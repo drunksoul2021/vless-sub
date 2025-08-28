@@ -61,7 +61,6 @@ hysteria2://1c473b13-502d-47eb-8cf8-70a38d56c5bd@jp1.interld123456789.com:443?in
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#9%7C%20%40Hddify
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#9%7C%40V2rayNG3%20%232
 hysteria2://287ca8c3-267f-4ba4-a48a-683c450d07f2@b3cc762f4cb7.anondns.net:27063?insecure=0#9%7C%40V2rayBaaz
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:58718?insecure=0&sni=real.getafreenode.sbs#9%7CTelegram%3A%40config_proxy%20
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy17.liangxin1.xyz:443?insecure=1&sni=www.apple.com.cn#8%7C%E6%97%A5%E6%9C%AC
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy2.liangxin1.xyz:443?insecure=1&sni=www.tesla.cn#8%7C%E6%9C%AA%E5%91%BD%E5%90%8D
 hysteria2://31e03220-caa2-409d-8fa9-ae5016d2702b@154.85.18.233:443?insecure=1&sni=www.bing.com#8%7C%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC
@@ -86,7 +85,6 @@ hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1&sni=bing.
 hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com#8%7CDE
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#9%7C%40FreakConfig
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#9%7C%E2%86%92%20%40Hddify
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@172.252.236.213:58718?insecure=0&sni=real.getafreenode.sbs#9%7CTelegram%3A%40config_proxy%20%F0%9F%98%8D%20%231
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#9%7C%40V2rayNG3%20%235
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#9%7C%40V2rayNG3%20%236
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#9%7C%40V2rayNG3%20%237
