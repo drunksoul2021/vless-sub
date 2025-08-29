@@ -60,6 +60,7 @@ hysteria2://1JA6CF8JMUDvoz6zfm5qHwlN3Wo@43.207.119.98:4410?insecure=1#8%7CHyster
 hysteria2://1c473b13-502d-47eb-8cf8-70a38d56c5bd@jp1.interld123456789.com:443?insecure=1&sni=1231231.1234567890spcloud.com#8%7CHy2-3
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#9%7C%20%40Hddify
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#9%7C%40V2rayNG3%20%232
+hysteria2://287ca8c3-267f-4ba4-a48a-683c450d07f2@b3cc762f4cb7.anondns.net:27063?insecure=0#9%7C%40V2rayBaaz
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy17.liangxin1.xyz:443?insecure=1&sni=www.apple.com.cn#8%7C%E6%97%A5%E6%9C%AC
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy2.liangxin1.xyz:443?insecure=1&sni=www.tesla.cn#8%7C%E6%9C%AA%E5%91%BD%E5%90%8D
 hysteria2://31e03220-caa2-409d-8fa9-ae5016d2702b@154.85.18.233:443?insecure=1&sni=www.bing.com#8%7C%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC
@@ -70,7 +71,7 @@ hysteria2://3C8h8X6kimbOX68joVe3kTERw@206.189.20.193:7197?insecure=1&sni=bing.co
 hysteria2://3QlSMKyqLp@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#9%7C%F0%9F%87%A9%F0%9F%87%AA%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%86%20%E2%9E%A0%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%D8%A7%D9%88%20%D8%B1...
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?insecure=1&sni=bing.com#8%2C9%7C%40Daily_Configs
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509?insecure=1&sni=bing.com#8%7CSG%20%231
-hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#8%2C9%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#8%2C9%7C%F0%9F%87%AA%40FreakConfig
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:48141?insecure=0&sni=real.getafreenode.sbs#9%7CTelegram%3A%40config_proxy%20
 hysteria2://51de9de9-3445-4dd3-8ac9-f42dc0baa230@129.146.215.233:443?insecure=1&sni=cn.cremedelamer.com#8%7C%F0%9F%87%B8
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:58718?insecure=0&sni=real.getafreenode.sbs#9%7C%40FreakConfig
@@ -89,10 +90,10 @@ hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xg2.dimoyun.top:40001?insecure=
 hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@xjp.dimoyun.top:40001?insecure=1&sni=xjp.dimoyun.top#8%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#9%7C%40V2rayNG3%20%233
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&sni=file-oss-ccs-02.dafei.de#8%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#8%2C9%7C%D8%A7%D9%86%20%D9%87%D8%A7%DB%8C%20%DB%8C%20%D8%AF%20%D9%86%D9%84%20%D8%AA%D8%B1%D8%A7%F0%9F%92%8E%20Config_Raye...
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#8%2C9%7C%DA%A9%D8%A7%D9%86%20%D9%87%D8%A7%DB%8C%20%DB%8C%20%D8%AF%20%D9%86%D9%84%20%D8%AA%D8%B1%D8%A7%F0%9F%92%8E%20Config_Ray...
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1&sni=bing.com#8%7CUK%20%231
 hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com#8%7CDE
-hysteria2://88984417-da74-4a6e-a6fe-9336adf8e644@77.90.50.59:20340?insecure=1#9%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%232
+hysteria2://88984417-da74-4a6e-a6fe-9336adf8e644@77.90.50.59:20340?insecure=1#9%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%231
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#9%7C%40FreakConfig%20%231
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#9%7C%E2%86%92%20%40Hddify
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#9%7C%40V2rayNG3%20%235
