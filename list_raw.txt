@@ -72,6 +72,7 @@ hysteria2://3QlSMKyqLp@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?insecure=1&sni=bing.com#8%2C9%7C%40Daily_Configs
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509?insecure=1&sni=bing.com#8%7CSG%20%231
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#8%2C9%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:48141?insecure=0&sni=real.getafreenode.sbs#9%7CTelegram%3A%40config_proxy%20
 hysteria2://51de9de9-3445-4dd3-8ac9-f42dc0baa230@129.146.215.233:443?insecure=1&sni=cn.cremedelamer.com#8%7C%F0%9F%87%B8
 hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?insecure=1&sni=192-227-152-86.nip.io#8%7CChannel%20id%3A%20%40proxy_kafee%F0%9F%87%B8
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?insecure=1&sni=bing.com#8%7CSG%20%232
