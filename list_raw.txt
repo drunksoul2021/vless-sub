@@ -99,6 +99,7 @@ hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&s
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#8%2C9%7C%D8%A7%D9%86%20%D9%87%D8%A7%DB%8C%20%DB%8C%20%D8%AF%20%D9%86%D9%84%20%D8%AA%D8%B1%D8%A7%F0%9F%92%8E%20Config_Raye...
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1&sni=bing.com#8%7CUK%20%231
 hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com#8%7CDE
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=0&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#9%7C%40meli_proxyy%20%232
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:49303?insecure=0&sni=real.getafreenode.sbs#9%7CTelegram%3A%40config_proxy%20%F0%9F%98%8D%20%2313
 hysteria2://88984417-da74-4a6e-a6fe-9336adf8e644@77.90.50.59:20340?insecure=1#9%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%232
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#9%7C%40Daily_Configs%20%231
