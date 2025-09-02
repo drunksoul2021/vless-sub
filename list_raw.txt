@@ -135,7 +135,6 @@ hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@asg.pagate.top:10086?#8%7C%E6%9
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?insecure=1&sni=www.bing.com#9%7C%40Daily_Configs%20%239
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#9%7C%40V2rayNG3%20%238
 hysteria2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443?insecure=1&sni=www.microsoft.com#8%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396?obfs=salamander&obfs-password=&O#9%7C28YB5qK%215t%23U%26insecure%3D1%26sni%3Dww...
 hysteria2://lPK6OZ9ouqyXrCghO6ohUbbN5g@8.222.183.55:33131?insecure=1&sni=bing.com#8%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://n9OgQprayM@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#9%7C%F0%9F%87%A9%F0%9F%87%AA%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%86%20%E2%9E%A0%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%D8%AF%D8%A7%D9%86%D9%84...%20%231
 hysteria2://oATw4IRtuUOozpOLFflGnWjtg@52.193.71.150:18219?insecure=1&sni=bing.com#8%7C%E6%97%A5%E6%9C%AC%20%231
