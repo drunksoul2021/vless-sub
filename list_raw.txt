@@ -90,7 +90,6 @@ hysteria2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414?insecure=1&sni=bing.com
 hysteria2://88984417-da74-4a6e-a6fe-9336adf8e644@77.90.50.59:20340?insecure=1#9%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%232
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#9%7C%40Daily_Configs%20%233
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#9%7C%E2%86%92%20%40Hddify
-hysteria2://AOzO2rBKFB@46.62.129.200:14825?insecure=1&obfs=salamander&obfs-password=r3fe@$WGefweqf#9%7Ct.me/NasaV2%7C
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#9%7C%40V2rayNG3%20%234
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#9%7C%40V2rayNG3%20%235
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#9%7C%40V2rayNG3%20%236
