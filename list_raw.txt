@@ -78,6 +78,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%92%8E%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee
 hysteria2://c9edf5cb-67ef-4440-8684-b3d301df6488@yue-ru.yuetoto.net:21053?insecure=0&sni=yue-ru.yuetoto.net#10%7C%40vpnserverrr
+hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#10%7C%40FreakConfig%20%232
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#10%7C%E6%9C%AA%E5%91%BD%E5%90%8D
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?insecure=1&sni=www.bing.com#10%7C%40Daily_Configs%20%237
