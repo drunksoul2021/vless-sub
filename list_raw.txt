@@ -63,6 +63,7 @@ hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#10%7CAll-%40IRAN_V2RAY1
 hysteria2://88984417-da74-4a6e-a6fe-9336adf8e644@77.90.50.59:20340?insecure=1#10%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%232
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#10%7C%40Daily_Configs%20%233
+hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?insecure=1&sni=de.youyacloud.me&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW#10%7CAll-%40IRAN_V2RAY1%20%231
 hysteria2://934766f0-204c-42be-8cf7-9afc2a8b5eaf@hsyg.huasuan666.top:22156?insecure=1&sni=hsyg.huasuan666.top#10%7C%40FreakConfig%20%231
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429?insecure=0&sni=real.getafreenode.sbs#10%7C%E2%86%92%20%40Hddify
 hysteria2://Bz0jKM83wa@android.yas-nowin.ir:443?sni=android.yas-nowin.ir#10%7C%F0%9F%87%A9%F0%9F%87%AA%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%86%20%E2%9E%A0%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%D8%AF%D8%A7%D9%86%D9%84...
