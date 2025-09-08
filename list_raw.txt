@@ -90,6 +90,7 @@ hysteria2://channel_dailyconfigs@176.124.204.248:443?insecure=1&sni=ubuntu com&o
 hysteria2://daily_configs@176.124.204.248:443?insecure=1&sni=ubuntu com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%40Daily_Configs%20IPv4%20%231
 hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=ubuntu com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%234
+hysteria2://default@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#10%7C%40Daily_Configs%20IPv4%20%232
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#9%2C10%7C%40FreakConfig%20%233
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#9%7CChannel%20id%3A%20%40singbox1%F0%9F%87%BA%F0%9F%87%B8%20%231
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#9%2C10%7C%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee%20%231
