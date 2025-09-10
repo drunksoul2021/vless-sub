@@ -79,6 +79,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=
 hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443?insecure=1&sni=www.microsoft.com#9%7CChannel%20id%3A%20%40singbox1%F0%9F%87%B5
 hysteria2://c9edf5cb-67ef-4440-8684-b3d301df6488@yue-ru.yuetoto.net:21053?insecure=0&sni=yue-ru.yuetoto.net#10%7C%40vpnserverrr%F0%9F%91%88
 hysteria2://channel_dailyconfigs@176.124.204.248:443?insecure=1&sni=ubuntu com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%40Daily_Configs%20IPv4
+hysteria2://channel_dailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#10%7C%40Daily_Configs%20%234
 hysteria2://daily_configs@176.124.204.248:443?insecure=1&sni=ubuntu com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%40Daily_Configs%20IPv4%20%231
 hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=ubuntu com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#10%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%232
